@@ -3,7 +3,7 @@
 This is an Express.js , Django and React + Vite project.
 
 
-Our platform offers a seamless experience for users to upload and share their moments with others. Whether capturing a special event, a personal milestone, or simply a snapshot of daily life, our service provides an intuitive interface for showcasing your experiences. Connect with a community, engage with like-minded individuals, and preserve your memories in a dynamic and interactive way.
+Our project offers a simple and fast service for task management. Whether you're managing personal tasks or tracking a whole team's assignments, our microservice helps you prioritize and monitor your progress. The service provides an easy-to-use interface to add tasks, set deadlines, and ensure you never miss anything. Stay organized and keep everything under control.
 
 
 # First Backend Setup (Express.js)
